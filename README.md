@@ -1,4 +1,4 @@
-<img width=1200 height=360 src="https://github.com/Abhijeet05061998/digital-clock/blob/main/d.PNG"/>
+<img width=1200 height=360 src="https://github.com/Abhijeet05061998/covid-19-tracker/blob/master/q.PNG"/>
 
 
 # Getting Started with Create React App
